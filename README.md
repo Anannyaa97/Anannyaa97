@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anannya AK</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Software+Developer+in+Progress;Java+%7C+Python+%7C+SQL;Web+Development+Enthusiast;Always+Learning+New+Things+🚀">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Data+Science+%26+Analytics+Enthusiast;Java+%7C+Python+%7C+SQL;Web+Development+Learner;Always+Learning+New+Things+🚀">
 </p>
 
 <p align="center">
@@ -35,10 +35,10 @@
 
 Name        :: Anannya AK
 
-Role        :: Computer Science Engineering Student
+Role        :: Computer Science and Engineering Student
                (Data Science)
 
-Currently   :: Exploring Data Science
+Currently   :: Learning Data Analytics & Data Science
                Web Development
                Building Java & Python Projects
 
@@ -49,12 +49,13 @@ Tech Stack  :: Python
                Git • GitHub
 
 Interested  :: Data Science
+               Data Analytics
                Web Development
                Software Development
 
 Mission     :: Learn continuously, build meaningful
                projects.
-
+```
 ---
 
 # 🚀 Current Focus
@@ -62,7 +63,7 @@ Mission     :: Learn continuously, build meaningful
 - 🌱 Strengthening Java and python fundamentals
 - 💻 Building real-world projects
 - 📚 Learning Data Science
-- 🌐 Improving Web Development skills
+- 🌐 Data Science & Analytics Enthusiast
 - 🎯 Preparing for Software Development internships
 
 ---
@@ -103,17 +104,6 @@ Performance comparison using the Ripes Simulator.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anannyaa97&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
