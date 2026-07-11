@@ -5,28 +5,65 @@
 <h1 align="center">Hi 👋, I'm Anannya AK</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=9F5FFF&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Data+Science+Enthusiast;Java+%7C+Python+Developer;Web+Development+Learner;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Software+Developer+in+Progress;Java+%7C+Python+%7C+SQL;Web+Development+Enthusiast;Always+Learning+New+Things+🚀">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anannyaa97&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/anannya-ak-01b5a9328">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anannyaak01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anannyaa97">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Anannyaa97&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech Computer Science and Engineering (Data Science)
+```bash
+> whoami
 
-🏫 St. Thomas College of Engineering & Technology
+Name        :: Anannya AK
 
-💻 Interested in Software Development, Web Development and Data Science
+Role        :: Computer Science Engineering Student
+               (Data Science)
 
-🌱 Currently improving my Java, Python, SQL and Web Development skills
+Currently   :: Exploring Data Science
+               Web Development
+               Building Java & Python Projects
 
-🚀 I enjoy building projects that help me learn new technologies.
+Tech Stack  :: Python
+               Java
+               SQL
+               HTML • CSS 
+               Git • GitHub
 
-📍 Kerala, India
+Interested  :: Data Science
+               Web Development
+               Software Development
+
+Mission     :: Learn continuously, build meaningful
+               projects.
+
+---
+
+# 🚀 Current Focus
+
+- 🌱 Strengthening Java and python fundamentals
+- 💻 Building real-world projects
+- 📚 Learning Data Science
+- 🌐 Improving Web Development skills
+- 🎯 Preparing for Software Development internships
 
 ---
 
@@ -34,27 +71,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,javascript,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-- Java Development
-- Python Programming
-- SQL
-- Web Development
-- Data Science Fundamentals
-
----
-
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
 ### 🏨 Hotel Room Booking System
 
-Java Swing + MySQL desktop application featuring room booking, payments, reviews and management system.
+Java Swing + MySQL desktop application featuring room booking, customer management, payments and reviews.
 
 🔗 https://github.com/Anannyaa97/Hotel-Room-Booking-System
 
@@ -70,19 +97,19 @@ Responsive website developed using HTML and CSS.
 
 ### ⚙ Unified vs Split Cache (RISC-V)
 
-Performance comparison of Unified Cache and Split Cache architectures using Ripes Simulator.
+Performance comparison using the Ripes Simulator.
 
 🔗 https://github.com/Anannyaa97/Unified-vs-Split-Cache-RISC-V
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anannyaa97&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anannyaa97&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -98,16 +125,6 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anannyaa97&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -118,16 +135,26 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 ---
 
-# 🤝 Connect with Me
+# 🧰 Tools I Use
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/anannya-ak-01b5a9328">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:anannyaak01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anannya-ak-01b5a9328">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -136,6 +163,14 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 <p align="center">
 
-✨ Thanks for visiting my profile! ✨
+> 💡 *"The expert in anything was once a beginner."*
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+Happy Coding 🚀
 
 </p>
