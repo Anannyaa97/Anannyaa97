@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anannya97&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Anannyaa97&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 Java Swing + MySQL desktop application featuring room booking, payments, reviews and management system.
 
-🔗 https://github.com/Anannya97/Hotel-Room-Booking-System
+🔗 https://github.com/Anannyaa97/Hotel-Room-Booking-System
 
 ---
 
@@ -64,7 +64,7 @@ Java Swing + MySQL desktop application featuring room booking, payments, reviews
 
 Responsive website developed using HTML and CSS.
 
-🔗 https://github.com/Anannya97/IEEE-WEBSITE
+🔗 https://github.com/Anannyaa97/IEEE-WEBSITE
 
 ---
 
@@ -72,7 +72,7 @@ Responsive website developed using HTML and CSS.
 
 Performance comparison of Unified Cache and Split Cache architectures using Ripes Simulator.
 
-🔗 https://github.com/Anannya97/Unified-vs-Split-Cache-RISC-V
+🔗 https://github.com/Anannyaa97/Unified-vs-Split-Cache-RISC-V
 
 ---
 
@@ -80,9 +80,9 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anannya97&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anannyaa97&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannya97&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -92,7 +92,7 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anannya97&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Anannyaa97&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -102,7 +102,7 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anannya97&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anannyaa97&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -112,7 +112,7 @@ Performance comparison of Unified Cache and Split Cache architectures using Ripe
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anannya97&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anannyaa97&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
