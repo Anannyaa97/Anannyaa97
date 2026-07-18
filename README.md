@@ -35,8 +35,7 @@
 
 Name        :: Anannya AK
 
-Role        :: Computer Science and Engineering Student
-               (Data Science)
+Role        :: Computer Science and Engineering (Data Science) Student
 
 Currently   :: Learning Data Analytics & Data Science
                Web Development
@@ -64,7 +63,7 @@ Mission     :: Learn continuously, build meaningful
 - 💻 Building real-world projects
 - 📚 Learning Data Science
 - 🌐 Data Science & Analytics Enthusiast
-- 🎯 Preparing for Software Development internships
+- 🎯 Preparing for internships 
 
 ---
 
