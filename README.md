@@ -235,10 +235,10 @@ A web project developed for IEEE, focused on presenting information through a st
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anannyaa97&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C7C9E0" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-one-chi-93.vercel.app/api?username=Anannyaa97&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C7C9E0" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com?user=Anannyaa97&theme=radical&hide_border=true&background=0D0B1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C7C9E0" alt="Top Languages"/>
+<img src="https://github-readme-stats-one-chi-93.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C7C9E0" alt="Top Languages"/>
 
 </div>
 
