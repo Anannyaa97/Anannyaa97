@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Anannya AK" width="100%"/>
+<img src="./assets/header.svg?v=3" alt="Anannya AK" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFAFF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions%2C+one+model+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=8B93F8&background=00000000&center=true&vCenter=true&width=700&height=35&separator=%7C&lines=Turning+data+into+decisions%2C+one+model+at+a+time" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Computer%20Science%20Engineering-Data%20Science-7C3AED?style=for-the-badge&labelColor=0D0B1A" alt="Academic Badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.6%20%2F%2010-6366F1?style=for-the-badge&labelColor=0D0B1A" alt="CGPA Badge"/>
 <img src="https://img.shields.io/badge/Location-Kannur%2C%20Kerala%2C%20India-4F46E5?style=for-the-badge&labelColor=0D0B1A" alt="Location Badge"/>
 
 <br/><br/>
@@ -29,7 +28,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Anannyaa97&style=for-the-badge&color=7c3aed&labelColor=0D0B1A" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Anannyaa97?style=for-the-badge&color=6366f1&labelColor=0D0B1A&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0B1A&color=4f46e5&label=Total%20Stars&query=%24.reduce(function(a%2Cb)%7Breturn%20a%2Bb.stargazers_count%3B%7D%2C0)&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnannyaa97%2Frepos%3Fper_page%3D100" alt="Total Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0D0B1A&color=4f46e5&label=Total%20Stars&queryType=jsonata&query=%24sum(stargazers_count)&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnannyaa97%2Frepos%3Fper_page%3D100" alt="Total Stars"/>
 
 </div>
 
@@ -37,16 +36,28 @@
 
 ## ⟡ About Me
 
-I'm a **Computer Science Engineering (Data Science)** undergraduate at St. Thomas College of Engineering and Technology, Kannur, currently maintaining an **8.6 CGPA**. My work sits at the intersection of **software development** and **data-driven engineering** — I build backend systems and relational databases, and I apply **Python, Pandas, NumPy, and Matplotlib** to analyze and visualize real-world data.
+```bash
+anannya@dev:~$ whoami
 
-I've completed hands-on internships in **software development** and **Python-based data analysis**, where I contributed to database migration systems, performed data preprocessing and visualization, and explored core **machine learning** concepts such as regression, classification, clustering, and PCA.
+Anannya AK
+Computer Science Engineering (Data Science) — St. Thomas College of Engineering and Technology
 
-I'm continuously learning — deepening my foundations in **Data Structures & Algorithms**, **Artificial Intelligence**, and **Machine Learning**, while building practical projects that combine software engineering discipline with analytical thinking.
+anannya@dev:~$ cat focus.txt
 
-- 🔭 Focused on strengthening core Software Engineering and Data Science fundamentals
-- 🌱 Exploring Machine Learning and Artificial Intelligence in depth
-- 🎓 B.Tech CSE (Data Science) — Class of 2028
-- 📫 Reach me at **anannyaak01@gmail.com**
+> Backend systems & relational databases (MySQL, PostgreSQL)
+> Data analysis & visualization with Python, Pandas, NumPy, Matplotlib
+> Core ML concepts — regression, classification, clustering, PCA
+> Deepening DSA, AI, and Machine Learning fundamentals
+
+anannya@dev:~$ cat experience.log
+
+[Software Development Intern]     Dinesh IT Systems      — Database Migration System
+[Python for Database Intern]      Neovent Innovations    — Data Analysis & Preprocessing
+
+anannya@dev:~$ contact --email
+
+anannyaak01@gmail.com
+```
 
 ## ⟡ Current Focus
 
@@ -200,7 +211,7 @@ A web project developed for IEEE, focused on presenting information through a st
 
 | Degree | Institution | Score | Year |
 |---|---|---|---|
-| B.Tech, Computer Science Engineering (Data Science) | St. Thomas College of Engineering and Technology, Kannur | CGPA: 8.6 / 10 | Expected 2028 |
+| B.Tech, Computer Science Engineering (Data Science) | St. Thomas College of Engineering and Technology, Kannur | CGPA: 8.52 / 10 | Expected 2028 |
 | Class XII | Government Higher Secondary School, Chala | 95% | — |
 
 ## ⟡ Certifications
@@ -214,7 +225,6 @@ A web project developed for IEEE, focused on presenting information through a st
 
 | Category | Details |
 |---|---|
-| Academic Standing | CGPA of 8.6 / 10 |
 | Leadership | Forum Head, ISTE STM Students' Chapter — Executive Committee (2026–27) |
 | Certification | Python Training — IIT Bombay |
 | Certification | Python for Data Science — NPTEL |
@@ -229,14 +239,6 @@ A web project developed for IEEE, focused on presenting information through a st
 <img src="https://streak-stats.demolab.com?user=Anannyaa97&theme=radical&hide_border=true&background=0D0B1A&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anannyaa97&layout=compact&theme=radical&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C7C9E0" alt="Top Languages"/>
-
-</div>
-
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anannyaa97&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
