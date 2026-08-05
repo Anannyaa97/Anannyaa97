@@ -207,30 +207,6 @@ A web project developed for IEEE, focused on presenting information through a st
 
 </div>
 
-## ⟡ Education
-
-| Degree | Institution | Score | Year |
-|---|---|---|---|
-| B.Tech, Computer Science Engineering (Data Science) | St. Thomas College of Engineering and Technology, Kannur | CGPA: 8.52 / 10 | Expected 2028 |
-| Class XII | Government Higher Secondary School, Chala | 95% | — |
-
-## ⟡ Certifications
-
-| Certification | Issuing Organization | Year |
-|---|---|---|
-| Python Training | Spoken Tutorial, IIT Bombay | 2025 |
-| Python for Data Science | NPTEL | 2025 |
-
-## ⟡ Leadership & Achievements
-
-| Category | Details |
-|---|---|
-| Leadership | Forum Head, ISTE STM Students' Chapter — Executive Committee (2026–27) |
-| Certification | Python Training — IIT Bombay |
-| Certification | Python for Data Science — NPTEL |
-| Internship | Software Development Internship — Dinesh IT Systems |
-| Internship | Python for Database Internship — Neovent Innovations |
-
 ## ⟡ GitHub Analytics
 
 <div align="center">
